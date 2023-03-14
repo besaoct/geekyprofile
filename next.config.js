@@ -5,6 +5,7 @@ module.exports = {
   sassOptions: {
     includePaths: [path.join(__dirname, "styles")],
   },
+
   images: {
     domains: ["https://avatars.githubusercontent.com/"],
   },
