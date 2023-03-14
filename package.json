@@ -1,0 +1,32 @@
+{
+  "name": "geekyprofile",
+  "private": true,
+  "author": "Masud Shafin Ahmed",
+  "version": "2.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/blackipie/geekyprofile.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "prettier": "prettier . --ignore-path .gitignore",
+    "format:check": "prettier . --ignore-path .gitignore --check",
+    "format:fix": "prettier . --ignore-path .gitignore --write",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "chart.js": "^2.9.4",
+    "gh-polyglot": "^2.3.3",
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-flip-move": "^3.0.5",
+    "react-icons": "^4.8.0",
+    "sass": "^1.59.2"
+  },
+  "devDependencies": {
+    "eslint": "<8.0.0",
+    "eslint-config-next": "12.0.7"
+  }
+}
