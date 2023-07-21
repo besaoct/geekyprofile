@@ -3,7 +3,7 @@
 </p>
 
 <h4 align="center">
-  <a href="geekyprofile.vercel.app">GeekyProfile</a>
+  <a href="https://geekyprofile.vercel.app">GeekyProfile</a>
 </h4>
   
 A web application to 🔍inspect your ```GitHub Profile Stats```📊 in a lucid way. ```Visualization``` made easy with ```Charts```💡🚀.
